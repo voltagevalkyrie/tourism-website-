@@ -617,3 +617,91 @@ textarea{
         padding: 10px 20px 50px 20px;
     }
 }
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+*{
+    padding: 0;
+    margin: 0; 
+    font-family: 'Quicksand', sans-serif;
+   }
+body{
+    background: #fff;
+}
+.container{
+    position: relative;
+    width: 100%;  height: 100vh;
+    background: linear-gradient(180deg , #fff 0% 50%, #110806 50% 100%);
+    padding-top: 30px;
+}
+.container .login{
+    position: absolute;
+    top: 50%;   left: 50%;
+    transform: translate(-50%,-50%);
+    width: 500px;
+    padding: 40px 20px 0;
+    box-shadow: 0 0 20px rgba(0,0,0,.5);
+    box-sizing: border-box;
+    background: #fff;
+    padding-bottom: 50px;
+}
+.container .login h1{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    color: #110806;
+}
+.container .login form{
+    position: relative;
+}
+.container .login form .row{
+    position: relative;
+    margin: 40px 0;
+    width: 100%;
+}
+.container .login form .row input,.container .login form .row textarea{
+    position: relative;
+    border: none;   outline: none;
+    width: 100%;
+    padding: 6px 0;
+    border-bottom: 1px solid #726b6b;
+    font-size: 20px;
+    color: #726b6b;
+    background: transparent;
+}
+.container .login form .row span{
+    color: #726b6b;  background: transparent;
+    display: inline-block;
+    padding: 3px 10px;
+    position: absolute;
+    top: 8px;  left: 0;
+    font-size: 15px;
+    text-transform: uppercase;
+    transition: .5s;
+    z-index: -1;
+}
+.container .login form .row input:focus + span ,
+.container .login form .row textarea:focus + span,
+.container .login form .row input:valid + span ,
+.container .login form .row textarea:valid + span{
+    color: #fff;  background: #e91e63;
+    top: -20px;
+}
+.container .login form .row:last-child{
+    text-align: right;
+    margin: 20px 0;
+}
+.container .login form .row input[type = 'submit']{
+    width: auto;
+    border: none;
+    color: #fff;  background: #110806;
+    padding: 10px 20px;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+
+
