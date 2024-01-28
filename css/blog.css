@@ -229,7 +229,7 @@ section {
 .banner-area {
     height: 60vh;
     width: 100%;
-    background: linear-gradient( #1c1a2521, #000000ab),url(../images/blogbanner.jpg) no-repeat;
+    background: linear-gradient( #1c1a2521, #000000ab),url(../images/eventbanner.jpg) no-repeat;
     /* background-color: #eee; */
     background-attachment: fixed;
     background-position: center center;
