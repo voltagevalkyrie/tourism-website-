@@ -1,13 +1,13 @@
-# hello its a tourism website
 
-# Welcome to ExploreWorld - Your Ultimate Tourism Guide
+--------------------------------------------------------------------------------------------------------------------------
+# Welcome to Friendly tourism - Your Ultimate Tourism Guide
+--------------------------------------------------------------------------------------------------------------------------
 
 
- # Friendly tourism website 
 
  
 
-ExploreWorld is a comprehensive tourism website that allows users to discover, plan, and embark on memorable journeys around the world. Whether you're seeking the perfect hotel, exciting events, or exotic islands, ExploreWorld has got you covered. With a user-friendly interface and integration with Google Maps API, planning your dream vacation has never been easier.
+Friendly tourism is a comprehensive tourism website that allows users to discover, plan, and embark on memorable journeys around the world. Whether you're seeking the perfect hotel, exciting events, or exotic islands, Friendly tourism has got you covered. With a user-friendly interface and integration with Google Maps API, planning your dream vacation has never been easier.
 
 ## Table of Contents
 
@@ -21,19 +21,19 @@ ExploreWorld is a comprehensive tourism website that allows users to discover, p
 ## Features
 
 ### 1. Search and Discover
-ExploreWorld provides a powerful search engine that allows users to find hotels, events, and islands with ease. The integration of Google Maps API enhances the search experience, providing visual representations of destinations.
+Friendly tourism provides a powerful search engine that allows users to find hotels, events, and islands with ease. The integration of Google Maps API enhances the search experience, providing visual representations of destinations.
 
 ### 2. Hotel Booking
-Discover a wide range of hotels and accommodations tailored to your preferences. ExploreWorld facilitates seamless hotel bookings through a secure and efficient reservation system.
+Discover a wide range of hotels and accommodations tailored to your preferences. Friendly tourism facilitates seamless hotel bookings through a secure and efficient reservation system.
 
 ### 3. Event Calendar
-Stay updated on upcoming events worldwide. Whether it's a cultural festival, a concert, or a sports event, ExploreWorld's event calendar ensures you never miss out on exciting happenings.
+Stay updated on upcoming events worldwide. Whether it's a cultural festival, a concert, or a sports event, Friendly tourism's event calendar ensures you never miss out on exciting happenings.
 
 ### 4. Island Exploration
-Embark on virtual journeys to some of the most beautiful islands around the world. ExploreWorld offers detailed information about each island, helping you plan your next tropical getaway.
+Embark on virtual journeys to some of the most beautiful islands around the world. Friendly tourism offers detailed information about each island, helping you plan your next tropical getaway.
 
 ### 5. User Accounts
-Create a personalized account on ExploreWorld to save your favorite destinations, track bookings, and receive personalized recommendations based on your preferences.
+Create a personalized account on Friendly tourism to save your favorite destinations, track bookings, and receive personalized recommendations based on your preferences.
 
 ## Technologies Used
 
@@ -45,7 +45,7 @@ Create a personalized account on ExploreWorld to save your favorite destinations
 
 ## Getting Started
 
-To get started with ExploreWorld, follow these steps:
+To get started with Friendly tourism, follow these steps:
 
 1. Clone the repository:
     ```bash
@@ -54,7 +54,7 @@ To get started with ExploreWorld, follow these steps:
 
 2. Navigate to the project directory:
     ```bash
-    cd exploreworld
+    cd Friendly tourism
     ```
 
 3. Set up a local development server or deploy on your preferred web hosting platform.
@@ -74,7 +74,7 @@ To get started with ExploreWorld, follow these steps:
 
 ## Contributing
 
-We welcome contributions from the community. To contribute to ExploreWorld, follow these steps:
+We welcome contributions from the community. To contribute to Friendly tourism, follow these steps:
 
 1. Fork the repository.
 
@@ -97,6 +97,6 @@ We welcome contributions from the community. To contribute to ExploreWorld, foll
 
 ## License
 
-ExploreWorld is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
+Friendly tourism is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
 
 Happy Exploring! 🌍✈️
