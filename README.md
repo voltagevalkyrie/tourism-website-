@@ -40,7 +40,6 @@ Create a personalized account on Friendly tourism to save your favorite destinat
 - **HTML**: Markup language for structuring web content.
 - **CSS**: Stylesheet language for designing the user interface.
 - **JavaScript (JS)**: Programming language for dynamic content and interactivity.
-- **PHP**: Server-side scripting language for backend development.
 - **Google Maps API**: Integration for interactive maps and location-based features.
 
 ## Getting Started
