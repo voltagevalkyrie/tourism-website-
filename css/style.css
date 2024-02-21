@@ -373,29 +373,6 @@ section {
 }
 
 
-/*adventure mainpage section ends
-section.information .text-information { 
-  padding: 134px 0;
-}
-
-section.information h5 {
-font-size: 42px;
-font-weight: 700;
-line-height: 48px;
-color: var(--black);
-}
-
-section.information p {
-font-size: 18px;
-font-weight: 300;
-line-height: 28px;
-color: var(--gray-1); 
-padding-top: 20px;
-}
-section.information .info-1 { 
-padding: 183px e; 
-}
-*/
 
 .adventureh1 {
   padding-top: 50px;
@@ -777,23 +754,7 @@ padding: 183px e;
 
 }
 
-/* .example-2 .wrapper .rd {
-  background: url(/images/perahera.jpg) center/cover no-repeat;
-  z-index: 5;
-} */
 
-/* Event homepage css end */
-
-
-
-
-
-
-
-
-
-
-/* Products home page section css start  */
 .products {
   position: relative;
   overflow-x: hidden !important;
@@ -1429,16 +1390,11 @@ a .news__item:hover {
 
 
 
-/* product home page section media query ends */
-
-
 
 
 @media (max-width: 560px) {
   .map .image img{
     width: 100%;
-    /* justify-content: space-around; */
-    /* padding-right: 4rem; */
   }
   
 .adventurepage .container img {
@@ -1569,5 +1525,3 @@ a .news__item:hover {
 }
 
 
-
-/*# sourceMappingURL=style.css.map */
