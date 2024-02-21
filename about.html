@@ -85,25 +85,25 @@
 <div class="container">
     <div class="login">
         <h1>Contact Us</h1>
-        <form>
+                <form id="myform">
             <div class="row">
-                <input type="text" required>
+                <input type="text" name="name" required>
                 <span>Name</span>
             </div>
             <div class="row">
-                <input type="email" required>
+                <input type="email" name="email" required>
                 <span>Email</span>
             </div>
             <div class="row">
-                <input type="number" required>
+                <input type="number" name="number" required>
                 <span>Mobile</span>
             </div>
             <div class="row">
-                <textarea rows="3" required></textarea>
+                <textarea rows="3" name="message" required></textarea>
                 <span>Message</span>
             </div>
             <div class="row">
-                <input type="submit" value="Send Message">
+                <input type="submit" value="Send Message"> 
             </div>
         </form>
     </div>
@@ -119,6 +119,6 @@
 
 
 
-
+<script src="js/contact.js"></script>
 </body>
 </html>
